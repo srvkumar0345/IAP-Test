@@ -1,4 +1,4 @@
-# My K8s App
+# IAP-Assessment K8s Test
 
 This project contains a simple Python Flask application that provides a `/version` endpoint, containerized with Docker, and deployed on a Kubernetes cluster. The project also includes a CI/CD pipeline configured using GitHub Actions.
 
